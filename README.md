@@ -15,6 +15,6 @@
 ### Properly adjusting these figures places Thomas High School into the top 5 performing schools when the freshman class is properly removed from the analysis.  
 
 ### Replacing the freshman scores at Thomas High School does not affect the math and reading scores by grade (except for the NaN value). 
-###![Fig 7] !(https://github.com/ASCHEET/School_District_Analysis/blob/main/Resources/per_school_math.png?raw=true) ![Fig 8](https://github.com/ASCHEET/School_District_Analysis/blob/main/Resources/per_grade_reading.png?raw=true)
+###![Fig 7](https://github.com/ASCHEET/School_District_Analysis/blob/main/Resources/per_school_math.png?raw=true) ![Fig 8](https://github.com/ASCHEET/School_District_Analysis/blob/main/Resources/per_grade_reading.png?raw=true)
 ### Scores by school spending, scores by school size, and scores by type are not affected because the students are still students there and still counted for those analysis.  If the analysis was based on cost per grade, then a separate analysis could be performed based on the cost of each grade submitted.  Thomas High School did spend $638 per student, but actually it was $930 per student that passed math and reading successfully.
 
